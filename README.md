@@ -17,7 +17,7 @@ During this project, I practiced fundamental web development concepts:
 * 2.3 **Alignment**: How to center containers and limit width (`max-width`) so the site doesn't stretch too much on large screens.
 * 2.4 **Text Styling**: Importing fonts and using different weights (Light/Bold).
 
-## * How to view the project
+## 3.0 How to view the project
 
 1.  Clone the repository:
 
@@ -26,7 +26,7 @@ During this project, I practiced fundamental web development concepts:
     ```
 2.  Open the `index.html` file in your browser.
 
-## 4 Credits
+## 4.0 Credits
 
 This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 Odin image created by *The Odin Project*.
