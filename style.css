@@ -98,7 +98,7 @@ header nav ul li a {
     border-radius: 8px;
 }
 
-/* --- QUOTE SECTION --- */
+/* QUOTE SECTION */
 .quote-container {
     display: flex;
     justify-content: center;
@@ -107,8 +107,6 @@ header nav ul li a {
     color: #1F2937;            
     padding: 100px 300px;
 }
-
-/* --- INFO SECTION --- */
 
 .info-section {
     display: flex;
@@ -189,4 +187,53 @@ body {
     color: #1f2937;
     align-self: flex-end;
     margin: 0;
+}
+
+/* CTA-CONTAINER*/
+
+.cta-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 20px;
+    background-color: white;
+}
+
+.cta-container {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 100px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 900px;
+}
+
+.cta-text h3 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+}
+
+.cta-text p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.cta-button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 8px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: inherit; 
+}
+
+.cta-button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
 }
