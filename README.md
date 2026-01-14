@@ -26,7 +26,7 @@ During this project, I practiced fundamental web development concepts:
     ```
 2.  Open the `index.html` file in your browser.
 
-## 📝 Credits
+## 4 Credits
 
 This project is part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 Odin image created by *The Odin Project*.
